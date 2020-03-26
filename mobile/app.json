@@ -19,6 +19,11 @@
     "assetBundlePatterns": ["**/*"],
     "ios": {
       "supportsTablet": true
-    }
+    },
+    "android": {
+      "package": "com.eniofilipe.bethehero",
+      "versionCode": 1
+    },
+    "description": ""
   }
 }
