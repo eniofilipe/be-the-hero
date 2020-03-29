@@ -32,5 +32,5 @@ Aplicação desenvolvida com NodeJs, ReactJs e React Native. Resultado da Semana
 ## Screenshots
 
 ### Mobile
-![image](github/mobile_screen.gif)
+![image](mobile_screen.gif)
 
